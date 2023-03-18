@@ -1,7 +1,6 @@
 temp = 0
 inp = None
-#temp = 8
-#inp = 3
+
 #I -> input(inp) cm8
 #P -> print(temp , end="") cm1
 #A -> print(chr(temp) , end="") cm2
