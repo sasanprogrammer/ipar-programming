@@ -17,7 +17,7 @@ D -> print(inp , end="") cm7
 ```
 ### Running
 ```
-First open cmd in this path
+First open cmd in app path
 then type:
 py main.py
 you get an output like this:
