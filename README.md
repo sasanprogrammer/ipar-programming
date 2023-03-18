@@ -24,3 +24,5 @@ you get an output like this:
 Hello, world!
 MyApp.ipar is the program file
 ```
+### Dont forgot to subscribe to Python Learn!
+### Channel address: https://www.aparat.com/Amozs123
