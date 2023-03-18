@@ -1,7 +1,7 @@
 ### IPAR
 ### This name has nothing to do with IPAR company
 
-This code is devoloped by sasan salehi
+This code is developed by sasan salehi
 This program is a simple language based on python
 
 ### commands:
