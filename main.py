@@ -1,4 +1,3 @@
-#IPAR Best in world!
 temp = 0
 inp = None
 #temp = 8
