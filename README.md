@@ -1,7 +1,7 @@
 ### IPAR
 ### This name has nothing to do with IPAR company
 
-This code is developed by sasan salehi
+This program is developed by sasan salehi
 This program is a simple language based on python
 
 ### commands:
@@ -24,5 +24,5 @@ you get an output like this:
 Hello, world!
 MyApp.ipar is the program file
 ```
-### Dont forgot to subscribe to Python Learn!
+### Dont forgot to subscribe to [Python Learn!](https://www.aparat.com/Amozs123)
 ### Channel address: https://www.aparat.com/Amozs123
